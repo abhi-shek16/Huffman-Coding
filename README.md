@@ -1,4 +1,4 @@
-# Huffman-Coding
+# File Compression Software - Huffman Coding
 📌 Project Overview
 
 This project implements Huffman Coding, a lossless data compression algorithm, to compress and decompress .txt files efficiently.
